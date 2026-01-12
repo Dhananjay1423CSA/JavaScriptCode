@@ -1,0 +1,14 @@
+a="Dhananjay";
+b=10;
+c=5;
+console.log(a);
+console.log(b+c);
+console.log(a+b);
+d=10;
+e=10;
+f=10;
+g=10;
+h=10;
+i=10;
+j=10;
+console.log(d+e+f+g+h+i+j);

@@ -1,0 +1,37 @@
+
+let a = 15;
+let b = 20;
+
+let addition = a + b;
+document.write("addition = ", addition, "<br>");
+// Output = 35
+
+let subtraction = a - b;
+document.write("subtraction = ", subtraction, "<br>");
+// Output = -5
+
+let multiplication = a * b;
+document.write("multiplication = ", multiplication, "<br>");
+// Output = 300
+
+let division = a / b;
+document.write("division = ", division, "<br>");
+// Output = 0.75
+
+let remainder = a % b;
+document.write("remainder = ", remainder, "<br>");
+// Output = 15
+
+let exp = b ** a;
+document.write("exponentiation = ", exp, "<br>");
+// Output = 32768000000000000000
+
+let inc = b++;
+document.write("increment = ", inc, "<br>");
+// Output = 20
+
+let dec = a--;
+document.write("decrement = ", dec, "<br>");
+// Output = 15
+
+

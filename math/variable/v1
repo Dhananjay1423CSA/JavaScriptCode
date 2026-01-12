@@ -1,0 +1,4 @@
+variable;
+let price=100;
+let total=price+20;
+

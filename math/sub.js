@@ -1,0 +1,14 @@
+a="subtraction";
+b=10;
+c=20;
+console.log(a);
+console.log(c-b);
+d=50;
+e=20;
+console.log(d-e);
+f=200;
+g=25;
+h=500;
+i=50;
+console.log(f-g);
+console.log(h-i);
